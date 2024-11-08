@@ -1,0 +1,9 @@
+:root {
+    --font-primary: 'DM Sans', sans-serif;
+
+    --color-primary: #1f1f1f;
+    --color-secundary: #818188;
+    --color-gradient: linear-gradient(to right, #ae2896, #509bf5);
+    --color-white: #fff;
+    --color-black: #000;
+}
